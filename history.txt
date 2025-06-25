@@ -1,0 +1,17 @@
+Original: hello
+Corrected: hello
+----------------------------------------
+Original: fdg
+Corrected: fig
+----------------------------------------
+Original: hello
+my love
+how are you
+do you love me
+where are you
+Corrected: hello
+my love
+how are you
+do you love me
+where are you
+----------------------------------------
