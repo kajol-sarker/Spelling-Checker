@@ -66,15 +66,7 @@ root.mainloop()
 
 
 
-
-
-
-
-
-
-
-
-
+#no need from this part
 '''
 import tkinter as tk
 from tkinter import messagebox, filedialog
